@@ -42,6 +42,7 @@ A curated list of awesome things related to <a href='https://github.com/elysiajs
 
 ## Boilerplates
 - [elysia-kickstart](https://github.com/syhner/elysia-kickstart) - ElysiaJS boilerplate with HTMX, Tailwind, Auth.js, Drizzle, CI, and Docker to deploy anywhere (including Railway and Vercel Edge Functions).
+- [elysia-api-routing-controllers](https://github.com/OthmanAmoudi/Elysiajs-api-controllers) - ElysiaJS elegant routing controllers boilerplate clean, modular and concise (inspired by Nestjs).
 
 ## Plugins
 
